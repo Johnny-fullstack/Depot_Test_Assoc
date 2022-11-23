@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://master--starlit-mochi-ce172a.netlify.app/index.html</loc>
+  <lastmod>2022-11-23T15:42:21+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://master--starlit-mochi-ce172a.netlify.app/page2_%C3%A9v%C3%A8nement_assoc.html</loc>
+  <lastmod>2022-11-23T15:42:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://master--starlit-mochi-ce172a.netlify.app/%C3%A9v%C3%A8nement_lille_assoc</loc>
+  <lastmod>2022-11-23T15:42:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://master--starlit-mochi-ce172a.netlify.app/%C3%A9v%C3%A8nement_lyon_assoc</loc>
+  <lastmod>2022-11-23T15:42:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://master--starlit-mochi-ce172a.netlify.app/%C3%A9v%C3%A8nement_nantes_assoc</loc>
+  <lastmod>2022-11-23T15:42:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://master--starlit-mochi-ce172a.netlify.app/%C3%A9v%C3%A8nement_paris_assoc</loc>
+  <lastmod>2022-11-23T15:42:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
